@@ -1,0 +1,3 @@
+﻿  PortScan.cpp
+D:\source\repos\Network Scanning System\Network Scanning System\PortScan.cpp(217,8): warning C4101: “errorBuf”: 未引用的局部变量
+  Network Scanning System.vcxproj -> D:\source\repos\Network Scanning System\Debug\Network Scanning System.exe
